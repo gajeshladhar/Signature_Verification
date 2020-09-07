@@ -15,5 +15,7 @@ We have Preprocessed the raw data, here is a look on steps ,
 <img src="https://i.ibb.co/GJtMCx6/Screenshot-from-2020-09-07-21-12-15.png">
 <br><br>
 <b> We used Contrastive Loss Function in Training </b><br><br>
-<img src="https://i.ibb.co/cv4WXB7/Screenshot-from-2020-09-07-21-14-51.png"><br>
+<img src="https://i.ibb.co/cv4WXB7/Screenshot-from-2020-09-07-21-14-51.png"><br><br>
+<b> Model Architecture : </b><br>
+<img src="https://i.ibb.co/gZMg2vL/model.png">
 
