@@ -18,4 +18,8 @@ We have Preprocessed the raw data, here is a look on steps ,
 <img src="https://i.ibb.co/cv4WXB7/Screenshot-from-2020-09-07-21-14-51.png"><br><br>
 <b> Model Architecture : </b><br>
 <img src="https://i.ibb.co/gZMg2vL/model.png">
+<br><br>
+<b> Model at Test Time : </b><br>
+In Test time we will give input of two signature images one of them is original and other is testing image,<br>
+If, our last Lambda layer which is nothing but a distance vector returns distance which is Less than some thresold then, we will consider both signature to be done by same person otherwise there is some forgery in both signatures.
 
