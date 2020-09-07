@@ -10,18 +10,8 @@ This is explaination of entire Project :
 <br>
 <img src="https://i.ibb.co/LQr6dhs/Screenshot-from-2020-09-07-21-06-11.png"><br>
 <br>
-<b> We have Pre-Processed raw Data, here are some steps :<br>
-  1). Convert Images to Binary Images
-
-<br>2). Apply some filters to resize edges of signatures.
-
-<br>3). Invert Values in Binary Images.
-
-<br>4).Rotate some Images than add those new Images.
-
-<br>5). Use the shering and Add new images.
-
-<br>6). Normalize all Images
+<b> We have Pre-Processed raw Data, here are some steps :</b><br>
+  1). Convert Images to Binary Images<br>2). Apply some filters to resize edges of signatures.<br>3). Invert Values in Binary Images.<br>4).Rotate some Images than add those new Images.<br>5). Use the shering and Add new images.<br>6). Normalize all Images
 <br><br>
 <b> We used Contrastive Loss Function in Training </b><br><br>
 <img src="https://i.ibb.co/cv4WXB7/Screenshot-from-2020-09-07-21-14-51.png"><br><br>
