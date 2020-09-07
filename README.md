@@ -9,4 +9,9 @@ This is explaination of entire Project :
 <font color="blue"><br><br><b>Download The DataSet from CEDAR and BHSig-260, we have saved this in drive, here is a code for loading dataset</b></font>
 <br>
 <img src="https://i.ibb.co/LQr6dhs/Screenshot-from-2020-09-07-21-06-11.png"><br>
+<br>
+We have Preprocessed the raw data, here is a look on steps ,
+<br>
+<img src="https://i.ibb.co/GJtMCx6/Screenshot-from-2020-09-07-21-12-15.png">
+<br>
 
